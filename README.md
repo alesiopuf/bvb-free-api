@@ -7,7 +7,7 @@ This Java application serves as a simulated trading platform for the Bucharest S
 ## Setup Instructions
 
 1. **Clone the Repository:**
-`git clone https:/github.com/alesiopuf/bvb-free-api`
+`git clone https://github.com/alesiopuf/bvb-free-api.git`
 
 3. **Dependencies:**
 - Ensure you have Java 17 and MySQL 8 installed on your system.
