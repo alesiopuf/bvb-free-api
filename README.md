@@ -1,29 +1,22 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
+Bucharest Stock Exchange API (BVB)
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Java Application for simulating trades on BVB
 
 ### How do I get set up? ###
 
 * Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
 ### Contribution guidelines ###
 
+Anyone can contribute
 * Writing tests
-* Code review
-* Other guidelines
+* Writing specifications
+* Solving bugs
+Any pull-request must be review by the onwer of the repository.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* You can send an email about any topic here (alesiopuf@yahoo.com)
+* Email title must be 'BVB Free API Support'
