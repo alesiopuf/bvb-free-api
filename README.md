@@ -23,6 +23,7 @@ This Java application serves as a simulated trading platform for the Bucharest S
 
 5. **Run the Application:**
 - Execute the built application JAR file or run it directly from an IDE.
+- To setup database, you should run first including line 75 from `StockBaselineLoader`
 
 6. **Usage:**
 - Upon launching the application, users can interact with the simulated trading platform via these endpoints (http://localhost:8080/swagger-ui/index.html)
